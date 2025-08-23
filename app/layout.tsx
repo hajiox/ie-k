@@ -17,7 +17,7 @@ const mPlus1p = M_PLUS_1p({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://ie-k.aizubrandhall-lp2.com"),
   title: {
     default: "パーフェクトラーメンIE-K｜本格家系ラーメンお取り寄せ｜職人仕込み濃厚豚骨醤油スープ｜会津ブランド館",
     template: "%s | 会津ブランド館",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     "喜多方",
     "福島",
   ],
-  authors: [{ name: "会津ブランド館", url: "https://your-domain.com" }],
+  authors: [{ name: "会津ブランド館", url: "https://ie-k.aizubrandhall-lp2.com" }],
   creator: "会津ブランド館",
   publisher: "会津ブランド館",
   formatDetection: {
@@ -54,14 +54,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "ja_JP",
-    url: "https://your-domain.com",
+    url: "https://ie-k.aizubrandhall-lp2.com",
     siteName: "会津ブランド館",
     title: "パーフェクトラーメンIE-K｜本格家系ラーメンお取り寄せ｜職人仕込み濃厚豚骨醤油スープ",
     description:
       "職人が毎日寸胴で仕込む本格家系ラーメン「パーフェクトラーメンIE-K」。工場では作れない濃厚豚骨醤油スープと特注中太麺で、お店の味をご自宅で。楽天★4.56点の高評価。",
     images: [
       {
-        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-80kmRdmY1cnuaz3ZqqUksQwVeDYQJ3.jpeg",
+        url: "/ogp-image.jpg",
         width: 1200,
         height: 630,
         alt: "パーフェクトラーメンIE-K - 本格家系ラーメンお取り寄せ",
@@ -76,9 +76,7 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンIE-K｜本格家系ラーメンお取り寄せ｜職人仕込み濃厚豚骨醤油スープ",
     description:
       "職人が毎日寸胴で仕込む本格家系ラーメン「パーフェクトラーメンIE-K」。工場では作れない濃厚豚骨醤油スープと特注中太麺で、お店の味をご自宅で。楽天★4.56点の高評価。",
-    images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-80kmRdmY1cnuaz3ZqqUksQwVeDYQJ3.jpeg",
-    ],
+    images: ["/ogp-image.jpg"],
   },
   robots: {
     index: true,
@@ -115,7 +113,7 @@ export default function RootLayout({
       `,
           }}
         />
-        <link rel="canonical" href="https://your-domain.com" />
+        <link rel="canonical" href="https://ie-k.aizubrandhall-lp2.com" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#ffffff" />
         <style>{`
