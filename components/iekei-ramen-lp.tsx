@@ -461,8 +461,13 @@ export default function IekeiRamenLP() {
             <h2 className="text-3xl font-bold text-center mb-12 text-white font-sans">ご購入はこちらから</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
               {/* Yahoo!ショッピング */}
-              <div className="bg-[#ffdddd] p-6 rounded-lg">
-                <Link href="#" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="bg-red-50 border-2 border-red-200 p-6 rounded-lg">
+                <Link
+                  href="https://store.shopping.yahoo.co.jp/aizubrandhall/b2c8b7cfa5.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block"
+                >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
                       src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/yahoo%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-Q4rr71FNDfwx7Gi0DWzeXxTpXN7eRI.png"
@@ -472,19 +477,24 @@ export default function IekeiRamenLP() {
                       className="w-full h-auto"
                     />
                   </div>
-                  <h4 className="font-bold mb-2 text-center font-sans">Yahoo!ショッピング</h4>
-                  <p className="text-sm text-center mb-4 font-sans leading-[1.6]">
+                  <h4 className="font-bold mb-2 text-center font-sans text-gray-900">Yahoo!ショッピング</h4>
+                  <p className="text-sm text-center mb-4 font-sans leading-[1.6] text-gray-800">
                     PayPayポイントが貯まる使えるショッピングモールはこちら
                   </p>
-                  <p className="text-sm text-center text-red-600 font-bold font-sans">
+                  <p className="text-sm text-center text-red-700 font-bold font-sans bg-white px-3 py-2 rounded-md">
                     初めて当店をご利用のお客様に300円クーポン進呈中！
                   </p>
                 </Link>
               </div>
 
               {/* 楽天市場 */}
-              <div className="bg-[#deeeff] p-6 rounded-lg">
-                <Link href="#" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="bg-blue-50 border-2 border-blue-200 p-6 rounded-lg">
+                <Link
+                  href="https://item.rakuten.co.jp/aizubrandhall/c/0000000029/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block"
+                >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
                       src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-bAHr0jzvnLuUizjDDmdvivVus7UmO0.png"
@@ -494,19 +504,24 @@ export default function IekeiRamenLP() {
                       className="w-full h-auto"
                     />
                   </div>
-                  <h4 className="font-bold mb-2 text-center font-sans">楽天市場</h4>
-                  <p className="text-sm text-center mb-4 font-sans leading-[1.6]">
+                  <h4 className="font-bold mb-2 text-center font-sans text-gray-900">楽天市場</h4>
+                  <p className="text-sm text-center mb-4 font-sans leading-[1.6] text-gray-800">
                     楽天ポイントが使える国内最大級のショッピングモールはこちら
                   </p>
-                  <p className="text-sm text-center text-red-600 font-bold font-sans">
+                  <p className="text-sm text-center text-red-700 font-bold font-sans bg-white px-3 py-2 rounded-md">
                     初めて当店をご利用のお客様に300円クーポン進呈中！
                   </p>
                 </Link>
               </div>
 
               {/* Amazon */}
-              <div className="bg-[#e8ffdd] p-6 rounded-lg">
-                <Link href="#" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="bg-green-50 border-2 border-green-200 p-6 rounded-lg">
+                <Link
+                  href="https://www.amazon.co.jp/stores/page/DFDC7B78-B8C3-4B92-9A15-130780065823"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block"
+                >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
                       src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Amazon%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-uGCR1vFPSZVwOPHDB1ZendkrCuZuwN.png"
@@ -516,8 +531,8 @@ export default function IekeiRamenLP() {
                       className="w-full h-auto"
                     />
                   </div>
-                  <h4 className="font-bold mb-2 text-center font-sans">Amazon</h4>
-                  <p className="text-sm text-center mb-4 font-sans leading-[1.6]">
+                  <h4 className="font-bold mb-2 text-center font-sans text-gray-900">Amazon</h4>
+                  <p className="text-sm text-center mb-4 font-sans leading-[1.6] text-gray-800">
                     世界最大のショッピングモールでのお買い物はこちら
                   </p>
                 </Link>
