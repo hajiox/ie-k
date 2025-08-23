@@ -1,5 +1,9 @@
+// ファイル: app/page.tsx
+import type { Metadata } from "next"
+import IekeiRamenLP from "../components/iekei-ramen-lp"
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ie-k.aizubrandhall-lp2.com"), // ドメインを統一
+  metadataBase: new URL("https://ie-k.aizubrandhall-lp2.com"),
   title: {
     default: "【公式】パーフェクトラーメンIE-K【S】｜自宅で本格家系ラーメン通販・お取り寄せ",
     template: "%s | 会津ブランド館",
@@ -24,7 +28,6 @@ export const metadata: Metadata = {
     siteName: "会津ブランド館",
     images: [
       {
-        // Vercel Blobの絶対URLを使用
         url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/メインビジュアル_アートボード%201.jpg-MvwufD8Yvsc3Wwg8D5GL7uhKE41oN2.jpeg",
         width: 1200,
         height: 630,
@@ -42,10 +45,7 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンIE-K【S】｜自宅で味わう本格家系ラーメン",
     description:
       "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,300円から全国送料無料でお届け。",
-    images: [
-      // Vercel Blobの絶対URLを使用
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/メインビジュアル_アートボード%201.jpg-MvwufD8Yvsc3Wwg8D5GL7uhKE41oN2.jpeg",
-    ],
+    images: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/メインビジュアル_アートボード%201.jpg-MvwufD8Yvsc3Wwg8D5GL7uhKE41oN2.jpeg"],
   },
   robots: {
     index: true,
@@ -74,4 +74,8 @@ export const metadata: Metadata = {
     "product:brand": "会津ブランド館",
     "product:category": "食品・グルメ > ラーメン",
   },
+}
+
+export default function Page() {
+  return <IekeiRamenLP />
 }
