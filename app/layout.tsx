@@ -1,4 +1,3 @@
-// ファイル: app/layout.tsx
 import type React from "react"
 import type { Metadata } from "next"
 import { Noto_Sans_JP, M_PLUS_1p } from "next/font/google"
@@ -62,7 +61,7 @@ export const metadata: Metadata = {
       "職人が毎日寸胴で仕込む本格家系ラーメン「パーフェクトラーメンIE-K」。工場では作れない濃厚豚骨醤油スープと特注中太麺で、お店の味をご自宅で。楽天★4.56点の高評価。",
     images: [
       {
-        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/メインビジュアル_アートボード%201.jpg-MvwufD8Yvsc3Wwg8D5GL7uhKE41oN2.jpeg",
+        url: "https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg",
         width: 1200,
         height: 630,
         alt: "パーフェクトラーメンIE-K - 本格家系ラーメンお取り寄せ",
@@ -77,7 +76,7 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンIE-K｜本格家系ラーメンお取り寄せ｜職人仕込み濃厚豚骨醤油スープ",
     description:
       "職人が毎日寸胴で仕込む本格家系ラーメン「パーフェクトラーメンIE-K」。工場では作れない濃厚豚骨醤油スープと特注中太麺で、お店の味をご自宅で。楽天★4.56点の高評価。",
-    images: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/メインビジュアル_アートボード%201.jpg-MvwufD8Yvsc3Wwg8D5GL7uhKE41oN2.jpeg"],
+    images: ["https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg"],
   },
   robots: {
     index: true,
