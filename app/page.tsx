@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: "会津ブランド館",
     images: [
       {
-        url: "https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg",
+        url: "/images/iekei-ogp.png",
         width: 1200,
         height: 630,
         alt: "濃厚家系豚骨醤油ラーメン パーフェクトラーメンIE-K",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
       "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,300円から全国送料無料でお届け。",
     images: [
       {
-        url: "https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg",
+        url: "/images/iekei-ogp.png",
         alt: "濃厚家系豚骨醤油ラーメン パーフェクトラーメンIE-K",
         width: 1200,
         height: 630,
