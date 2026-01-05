@@ -18,7 +18,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -27,7 +27,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -35,7 +35,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -43,7 +43,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -51,7 +51,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -59,7 +59,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -68,7 +68,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -76,7 +76,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
     {
       source: "楽天",
@@ -85,7 +85,7 @@ export default function IekeiRamenLP() {
       rating: 5,
       name: "お客様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-ecEBMGXlTT34YYtfwh0M3YTqcYxhqO.jpeg",
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg",
     },
   ]
 
@@ -101,8 +101,7 @@ export default function IekeiRamenLP() {
       description: "麺とスープ×2食",
       note: "先ずお試しにどうぞ",
       price: "1,300円（税・送料込）",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%E4%BB%96TOP-01.jpg-TYKMSXf404He1HooXjoSyasNxK1yv3.jpeg",
+      image: "/images/e6-a5-bd-e5-a4-a9-e4-bb-96top-01.jpeg",
     },
     {
       id: "6set",
@@ -111,8 +110,7 @@ export default function IekeiRamenLP() {
       description: "麺とスープ×6食",
       note: "リピーターの皆さまへ",
       price: "3,450円（税・送料込）",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%E4%BB%96TOP%EF%BC%886%E9%A3%9F%EF%BC%89-01.jpg-bQQAFuofe7iA9UsFnBbIsUsXyGB6dP.jpeg",
+      image: "/images/e6-a5-bd-e5-a4-a9-e4-bb-96top-ef-bc-886-e9-a3-9f-ef-bc-89-01.jpeg",
     },
     {
       id: "chashu",
@@ -120,10 +118,9 @@ export default function IekeiRamenLP() {
       subtitle: "パーフェクトラーメンIE-K【S】1食チャーシュー付き",
       description: "麺とスープとチャーシュー×1食",
       note: "極厚チャーシュー付きで満足度大",
-      price: "740円（税込）送料別途",
+      price: "790円（税込）送料別途",
       extraNote: "2個まで全国一律300円",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1%E9%A3%9F%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC%E4%BB%98%E3%81%8D.jpg-bkFH2F1mDE77MeOXOKSvYopbiZSOeX.jpeg",
+      image: "/images/1-e9-a3-9f-e3-83-81-e3-83-a3-e3-83-bc-e3-82-b7-e3-83-a5-e3-83-bc-e4-bb-98-e3-81-8d.jpeg",
     },
     {
       id: "soup-only",
@@ -133,7 +130,7 @@ export default function IekeiRamenLP() {
       note: "",
       price: "1,750円（税・送料込）",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9TOP%E7%94%BB%E5%83%8F%EF%BC%88%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E3%81%BF%EF%BC%89-01.jpg-ibDYCW4Utnn9FePBY0lbBrD6yYI6gK.jpeg",
+        "/images/e6-a5-bd-e5-a4-a9top-e7-94-bb-e5-83-8f-ef-bc-88-e3-82-b9-e3-83-bc-e3-83-97-e3-81-ae-e3-81-bf-ef-bc-89-01.jpeg",
     },
   ]
 
@@ -143,7 +140,7 @@ export default function IekeiRamenLP() {
       <header className="bg-black py-6">
         <div className="container mx-auto px-4 flex justify-center items-center">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%98%E3%83%83%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%A4%A8%E3%83%AD%E3%82%B4.jpg-wluqU9cq52dqCXlnnwdXQHN8856E8u.jpeg"
+            src="/images/e3-83-98-e3-83-83-e3-82-bf-e3-83-bc-e7-94-a8-e3-83-96-e3-83-a9-e3-83-b3-e3-83-89-e9-a4-a8-e3-83-ad-e3-82-b4.jpeg"
             alt="AIZU BRAND HALL"
             width={200}
             height={200}
@@ -159,7 +156,7 @@ export default function IekeiRamenLP() {
         <section className="relative">
           <div className="relative h-[50vh] md:h-[60vh]">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-MvwufD8Yvsc3Wwg8D5GL7uhKE41oN2.jpeg"
+              src="/images/e3-83-a1-e3-82-a4-e3-83-b3-e3-83-93-e3-82-b8-e3-83-a5-e3-82-a2-e3-83-ab-e3-82-a2-e3-83-bc-e3-83-88-e3-83-9c-e3-83-bc-e3-83-89-201.jpeg"
               alt="パーフェクトラーメンIE-K - 家系ラーメン"
               fill
               className="object-cover object-center"
@@ -193,7 +190,7 @@ export default function IekeiRamenLP() {
                 <Card className="overflow-hidden shadow-lg bg-gray-800 border-gray-700">
                   <div className="relative aspect-[4/3] w-full">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%82%B9%E3%83%BC%E3%83%97-01.jpg-bLfrbTXI4ih5kez8flXSQK7XLPz0SR.jpeg"
+                      src="/images/e3-82-b9-e3-83-bc-e3-83-97-01.jpeg"
                       alt="スープ＆香味油 - 完全再現の濃厚豚骨"
                       fill
                       className="object-cover"
@@ -219,7 +216,7 @@ export default function IekeiRamenLP() {
                 <Card className="overflow-hidden shadow-lg bg-gray-800 border-gray-700">
                   <div className="relative aspect-[4/3] w-full">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E9%BA%BA-01.jpg-XAW3QeAFXf2LY6nSqEfDAnu80UqFAa.jpeg"
+                      src="/images/e9-ba-ba-01.jpeg"
                       alt="麺 - 老舗特注・大容量160g"
                       fill
                       className="object-cover"
@@ -243,7 +240,7 @@ export default function IekeiRamenLP() {
                 <Card className="overflow-hidden shadow-lg bg-gray-800 border-gray-700">
                   <div className="relative aspect-[4/3] w-full">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-01.jpg-5BZMM9EsqU9HgR9MMEF86ZqEwppnIh.jpeg"
+                      src="/images/e3-82-a2-e3-83-ac-e3-83-b3-e3-82-b8-01.jpeg"
                       alt="トッピングはお好みで・アレンジ自由度"
                       fill
                       className="object-cover"
@@ -279,7 +276,7 @@ export default function IekeiRamenLP() {
                 <h2 className="text-3xl font-bold text-white mb-8 font-sans">職人仕込みだからこそ生まれる一杯</h2>
                 <div className="relative aspect-[16/9] w-full max-w-2xl mx-auto mb-8">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/61543b84-5e15-4fab-9a5d-f7bbc8e750f4-1v8m7FwMH00OyczmJeXY1x5el3unMT.png"
+                    src="/images/61543b84-5e15-4fab-9a5d-f7bbc8e750f4.png"
                     alt="毎日寸胴で仕込む様子"
                     fill
                     className="object-cover rounded-lg shadow-lg"
@@ -436,7 +433,7 @@ export default function IekeiRamenLP() {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div className="relative aspect-[3/1] w-full">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E9%80%81%E6%96%99%E7%84%A1%E6%96%99-01.jpg-aFS0R8bUlZiug9Fz0oFKgt74ELq4Of.jpeg"
+                    src="/images/e9-80-81-e6-96-99-e7-84-a1-e6-96-99-01.jpeg"
                     alt="送料無料"
                     fill
                     className="object-contain"
@@ -444,7 +441,7 @@ export default function IekeiRamenLP() {
                 </div>
                 <div className="relative aspect-[3/1] w-full">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%8D%B3%E6%97%A5%E7%99%BA%E9%80%81-01.jpg-LkKgOEavwMc9RDyHJCzjX1Yfum1rRC.jpeg"
+                    src="/images/e5-8d-b3-e6-97-a5-e7-99-ba-e9-80-81-01.jpeg"
                     alt="即日配送"
                     fill
                     className="object-contain"
@@ -470,7 +467,7 @@ export default function IekeiRamenLP() {
                 >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/yahoo%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-Q4rr71FNDfwx7Gi0DWzeXxTpXN7eRI.png"
+                      src="/images/yahoo-e8-b3-bc-e5-85-a5-e3-83-9c-e3-82-bf-e3-83-b3-01.png"
                       alt="Yahoo!ショッピング"
                       width={200}
                       height={200}
@@ -497,7 +494,7 @@ export default function IekeiRamenLP() {
                 >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-bAHr0jzvnLuUizjDDmdvivVus7UmO0.png"
+                      src="/images/e6-a5-bd-e5-a4-a9-e8-b3-bc-e5-85-a5-e3-83-9c-e3-82-bf-e3-83-b3-01.png"
                       alt="楽天市場"
                       width={200}
                       height={200}
@@ -524,7 +521,7 @@ export default function IekeiRamenLP() {
                 >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Amazon%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-uGCR1vFPSZVwOPHDB1ZendkrCuZuwN.png"
+                      src="/images/amazon-e8-b3-bc-e5-85-a5-e3-83-9c-e3-82-bf-e3-83-b3-01.png"
                       alt="Amazon"
                       width={200}
                       height={200}
@@ -551,7 +548,7 @@ export default function IekeiRamenLP() {
           <div className="grid md:grid-cols-2 gap-8 items-start max-w-5xl mx-auto">
             <div className="relative aspect-[4/3] w-full">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E4%BC%9A%E6%B4%A5%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%A4%A8%E5%A4%96%E8%A6%B3.jpg-HXcILF47QzldA5Da4nM3IlHyJ0VU8t.jpeg"
+                src="/images/e4-bc-9a-e6-b4-a5-e3-83-96-e3-83-a9-e3-83-b3-e3-83-89-e9-a4-a8-e5-a4-96-e8-a6-b3.jpeg"
                 alt="会津ブランド館 店舗外観"
                 fill
                 className="object-cover rounded-lg"
