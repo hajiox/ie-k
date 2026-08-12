@@ -113,7 +113,6 @@ export default function RootLayout({
       `,
           }}
         />
-        <link rel="canonical" href="https://ie-k.aizubrandhall-lp2.com" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#ffffff" />
         <style>{`

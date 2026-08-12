@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import IekeiRamenLP from "../components/iekei-ramen-lp"
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://iek.aizubrandhall-lp.com"),
+  metadataBase: new URL("https://ie-k.aizubrandhall-lp2.com"),
   title: {
     default: "【公式】パーフェクトラーメンIE-K【S】｜自宅で本格家系ラーメン通販・お取り寄せ",
     template: "%s | 会津ブランド館",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンIE-K【S】｜自宅で味わう本格家系ラーメン",
     description:
       "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,300円から全国送料無料でお届け。",
-    url: "https://iek.aizubrandhall-lp.com",
+    url: "https://ie-k.aizubrandhall-lp2.com",
     siteName: "会津ブランド館",
     images: [
       {
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://iek.aizubrandhall-lp.com",
+    canonical: "https://ie-k.aizubrandhall-lp2.com",
   },
   category: "food",
   classification: "ラーメン通販",
