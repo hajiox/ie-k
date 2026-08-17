@@ -62,8 +62,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: "https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg",
-        width: 1200,
-        height: 630,
+        width: 1217,
+        height: 647,
         alt: "パーフェクトラーメンIE-K - 本格家系ラーメンお取り寄せ",
         type: "image/jpeg",
       },
@@ -76,7 +76,14 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンIE-K｜本格家系ラーメンお取り寄せ｜職人仕込み濃厚豚骨醤油スープ",
     description:
       "職人が毎日寸胴で仕込む本格家系ラーメン「パーフェクトラーメンIE-K」。工場では作れない濃厚豚骨醤油スープと特注中太麺で、お店の味をご自宅で。楽天★4.56点の高評価。",
-    images: ["https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg"],
+    images: [
+      {
+        url: "https://ie-k.aizubrandhall-lp2.com/ogp-image.jpg",
+        alt: "パーフェクトラーメンIE-K - 本格家系ラーメンお取り寄せ",
+        width: 1217,
+        height: 647,
+      },
+    ],
   },
   robots: {
     index: true,
@@ -88,9 +95,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-  },
-  verification: {
-    google: "your-google-verification-code",
   },
 }
 
