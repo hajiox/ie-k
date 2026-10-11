@@ -128,7 +128,7 @@ export default function IekeiRamenLP() {
       subtitle: "150ccの大容量スープ5食セット",
       description: "",
       note: "",
-      price: "1,750円（税・送料込）",
+      price: "1,944円（税・送料込）",
       image:
         "/images/e6-a5-bd-e5-a4-a9top-e7-94-bb-e5-83-8f-ef-bc-88-e3-82-b9-e3-83-bc-e3-83-97-e3-81-ae-e3-81-bf-ef-bc-89-01.jpeg",
     },
