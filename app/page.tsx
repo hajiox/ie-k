@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     template: "%s | 会津ブランド館",
   },
   description:
-    "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,300円から全国送料無料でお届け。",
+    "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,404円から全国送料無料でお届け。",
   keywords:
     "家系ラーメン,濃厚豚骨醤油,パーフェクトラーメンIE-K,通販,お取り寄せ,送料無料,会津ブランド館,本格ラーメン,豚骨スープ,中太麺,チャーシュー",
   authors: [{ name: "会津ブランド館" }],
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "パーフェクトラーメンIE-K【S】｜自宅で味わう本格家系ラーメン",
     description:
-      "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,300円から全国送料無料でお届け。",
+      "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,404円から全国送料無料でお届け。",
     url: "https://ie-k.aizubrandhall-lp2.com",
     siteName: "会津ブランド館",
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: "@aizu_brand_kan",
     title: "パーフェクトラーメンIE-K【S】｜自宅で味わう本格家系ラーメン",
     description:
-      "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,300円から全国送料無料でお届け。",
+      "お店で大人気の家系ラーメンを、いつでも自宅で。濃厚豚骨醤油の旨みをとことん再現したパーフェクトラーメンIE-K。化学エキス不使用、本物素材だけで仕込んだ本格派。2食セット1,404円から全国送料無料でお届け。",
     images: [
       {
         url: "/ogp-image.jpg",
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   category: "food",
   classification: "ラーメン通販",
   other: {
-    "product:price:amount": "1300",
+    "product:price:amount": "1404",
     "product:price:currency": "JPY",
     "product:availability": "in stock",
     "product:condition": "new",

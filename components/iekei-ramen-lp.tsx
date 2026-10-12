@@ -100,7 +100,7 @@ export default function IekeiRamenLP() {
       subtitle: "パーフェクトラーメンIE-K【S】2食セット",
       description: "麺とスープ×2食",
       note: "先ずお試しにどうぞ",
-      price: "1,300円（税・送料込）",
+      price: "1,404円（税・送料込）",
       image: "/images/e6-a5-bd-e5-a4-a9-e4-bb-96top-01.jpeg",
     },
     {
