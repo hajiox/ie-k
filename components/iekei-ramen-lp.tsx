@@ -118,7 +118,7 @@ export default function IekeiRamenLP() {
       subtitle: "パーフェクトラーメンIE-K【S】1食チャーシュー付き",
       description: "麺とスープとチャーシュー×1食",
       note: "極厚チャーシュー付きで満足度大",
-      price: "790円（税込）送料別途",
+      price: "885円（税込）送料別途",
       extraNote: "2個まで全国一律300円",
       image: "/images/1-e9-a3-9f-e3-83-81-e3-83-a3-e3-83-bc-e3-82-b7-e3-83-a5-e3-83-bc-e4-bb-98-e3-81-8d.jpeg",
     },
