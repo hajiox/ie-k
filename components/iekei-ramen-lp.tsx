@@ -113,16 +113,6 @@ export default function IekeiRamenLP() {
       image: "/images/e6-a5-bd-e5-a4-a9-e4-bb-96top-ef-bc-886-e9-a3-9f-ef-bc-89-01.jpeg",
     },
     {
-      id: "chashu",
-      title: "ちょっとリッチなチャーシュー付き",
-      subtitle: "パーフェクトラーメンIE-K【S】1食チャーシュー付き",
-      description: "麺とスープとチャーシュー×1食",
-      note: "極厚チャーシュー付きで満足度大",
-      price: "885円（税込）送料別途",
-      extraNote: "2個まで全国一律300円",
-      image: "/images/1-e9-a3-9f-e3-83-81-e3-83-a3-e3-83-bc-e3-82-b7-e3-83-a5-e3-83-bc-e4-bb-98-e3-81-8d.jpeg",
-    },
-    {
       id: "soup-only",
       title: "濃厚家系豚骨醤油スープのみ",
       subtitle: "150ccの大容量スープ5食セット",
@@ -304,7 +294,7 @@ export default function IekeiRamenLP() {
         <section className="py-16 bg-gray-900">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-bold text-center mb-12 text-white font-sans">商品ラインナップ</h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {products.map((product) => (
                 <Card
                   key={product.id}
@@ -340,7 +330,6 @@ export default function IekeiRamenLP() {
                     <p className="text-xl font-bold mb-2 font-mono" style={{ color: "#E60012" }}>
                       {product.price}
                     </p>
-                    {product.extraNote && <p className="text-sm text-gray-400 font-sans">{product.extraNote}</p>}
                   </CardContent>
                 </Card>
               ))}
@@ -397,11 +386,7 @@ export default function IekeiRamenLP() {
               <h2 className="text-2xl font-bold text-center mb-8 text-white font-sans">商品に関する注意点</h2>
               <div className="space-y-4 text-lg text-gray-300 font-sans leading-[1.6]">
                 <p>• 味付けは濃いめです。家系らしく、ご飯と一緒に食べると最後まで美味しく楽しめます。</p>
-                <p>
-                  • <strong>チャーシュー付き／チャーシューなし</strong>
-                  の2種類をご用意しています。ご購入前に内容をご確認ください。
-                </p>
-                <p>• トッピング（ほうれん草・のり・味玉など）は付属しませんので、お好みでご用意ください。</p>
+                <p>• チャーシューやほうれん草・のり・味玉などのトッピングは付属しません。お好みでご用意ください。</p>
                 <p>
                   •
                   保存方法や賞味期限はパッケージに記載しています。常温保存できる商品ですが、開封後は早めにお召し上がりください。
